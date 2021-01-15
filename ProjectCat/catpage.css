@@ -1,0 +1,25 @@
+.card{
+    border: 1px solid rgb(72, 218, 28);
+    border-radius: 50px 50px;
+    /* height: 530px; */
+}
+.card:hover{
+    background-color: orange;
+    color: white;
+}
+.card-title{
+    font-weight: bold;
+    font-family: 'Faustina', serif;}
+.card-text{
+    font-family: 'Sofia', cursive;}
+#details{
+    border: 1px solid ;
+    border-radius: 50px;
+}
+.fade{
+    background-color: none;
+    color: black;
+}
+#container{
+    background-image: url(image/chiornyi-kot-chiornyi-fon-zelionye-glaza.jpg);
+}

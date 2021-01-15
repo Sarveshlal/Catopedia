@@ -1,0 +1,15 @@
+.container{
+    margin:  0px 0px 0px;
+    color: white;
+    font-family: 'Faustina', serif;
+}
+#title{
+    font-size: 70px;
+    font-family: 'Sofia', cursive;
+    color: gold;
+}
+#footer{
+    position: absolute;
+    top: 550px;
+    left: 0px;
+}
